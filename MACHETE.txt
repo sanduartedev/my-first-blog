@@ -1,0 +1,28 @@
+sanduartedev@gmail.com
+Jesualdo1981
+----------------
+GITHUB
+sanduartedev
+Jesualdo1981
+-------------------
+Python anywhere
+sanduartedev
+Jesualdo1981
+API=32301c8c0935c5b14afa8cec62724dbd5d211db8
+------------------
+SUPERUSUARIO
+sanduartedev
+sanduartedev@gmail.com
+Jesualdo1981
+----------------------
+
+
+
+0 cd C:\Users\santi\Desktop\Santiago\Estudiar Python\Estudiar_Django
+1 myvenv\Scripts\activate
+
+
+
+
+**********************
+Ojo con el URLS!!!!
