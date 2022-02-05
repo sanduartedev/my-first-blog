@@ -18,11 +18,11 @@ Jesualdo1981
 
 
 
-0 cd C:\Users\santi\Desktop\Santiago\Estudiar Python\Estudiar_Django
+0 cd C:\Users\santi\Desktop\escritorio\Santiago\Estudiar Python\Estudiar_Django
 1 myvenv\Scripts\activate
+2 python manage.py runserver
 
 
-
-
-**********************
-Ojo con el URLS!!!!
+**************
+Lo del PYthomanywhere 
+Lo instale en el branch master
