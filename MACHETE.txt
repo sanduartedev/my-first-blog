@@ -9,6 +9,7 @@ Python anywhere
 sanduartedev
 Jesualdo1981
 API=32301c8c0935c5b14afa8cec62724dbd5d211db8
+cd ~/sanduartedev.pythonanywhere.com
 ------------------
 SUPERUSUARIO
 sanduartedev
@@ -18,11 +19,18 @@ Jesualdo1981
 
 
 
-0 cd C:\Users\santi\Desktop\escritorio\Santiago\Estudiar Python\Estudiar_Django
-1 myvenv\Scripts\activate
-2 python manage.py runserver
+cd C:\Users\santi\Desktop\escritorio\Santiago\Estudiar Python\Estudiar_Django
+myvenv\Scripts\activate
+python manage.py runserver
 
 
 **************
 Lo del PYthomanywhere 
 Lo instale en el branch master
+***********
+la consola interactiva de Django
+
+
+cd C:\Users\santi\Desktop\escritorio\Santiago\Estudiar Python\Estudiar_Django
+myvenv\Scripts\activate
+python manage.py shell
